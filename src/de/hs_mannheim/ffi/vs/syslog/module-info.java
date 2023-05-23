@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Julijan
+ *
+ */
+module MqttAdapter {
+}
